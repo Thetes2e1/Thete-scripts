@@ -1,0 +1,10 @@
+
+while task.wait() do
+
+ 
+local A_1 = 8
+local Event = game:GetService("ReplicatedStorage").Packages["_Index"]["sleitnick_knit@1.4.7"].knit.Services.EventService.RF.ClaimEgg
+Event:InvokeServer(A_1)
+
+
+end
